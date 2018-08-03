@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DorilasViewTool::Renderer.copyright "Samuel Dorilas", "All rights reserved"
+```
 
 ## Development
 
